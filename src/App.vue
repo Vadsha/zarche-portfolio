@@ -144,15 +144,19 @@ export default {
                 </div>
                 <div>
                   <p class="text-lg underline underline-offset-2">Clerk</p>
-                  <p class="font-light">Sinoproud Myanmar GarmentCo.,Ltd|2019-2021</p>
+                  <p class="font-light">Sinoproud Myanmar GarmentCo.,Ltd | 2019-2021</p>
                 </div>
                 <div>
                   <p class="text-lg underline underline-offset-2">Production Officer</p>
-                  <p class="font-light">Myanmar York Fashion Co.,Ltd|2021-2022</p>
+                  <p class="font-light">Myanmar York Fashion Co.,Ltd | 2021-2022</p>
                 </div>
                 <div>
                   <p class="text-lg underline underline-offset-2">Office Staff and Admin</p>
-                  <p class="font-light">First Education Center |2022-2023 May</p>
+                  <p class="font-light">First Education Center | 2022-2023 May</p>
+                </div>
+                <div>
+                  <p class="text-lg underline underline-offset-2">Visa Consultant</p>
+                  <p class="font-light">Myanmar Win Win Consulting Group Co.Ltd | 2023 May - 2024 May</p>
                 </div>
               </div>
               <div>
