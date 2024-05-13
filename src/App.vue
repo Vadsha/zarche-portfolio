@@ -72,7 +72,7 @@ export default {
       <div class="text-black max-sm:text-center lg:ml-16 max-sm:0 my-60 text-4xl">
         <p data-aos="fade-right" data-aos-duration="1000" class="text-lg">Welcome to</p>
         <p data-aos="fade-right" data-aos-duration="1500" class="underline mb-8 underline-offset-4 decoration-yellow-400">MY PROFILE</p>
-        <p  data-aos="fade-right" data-aos-duration="1500" data-aos-delay="500">"Behind every good Business is a great Accountant!"</p>
+        <p  data-aos="fade-right" data-aos-duration="1500" data-aos-delay="500">"Behind every good business is a great Visa & Immigration Consultant!"</p>
       </div>
       <div class="bg-black py-10 text-white"  >
         <div data-aos="zoom-in" data-aos-duration="1000" class="flex justify-center">
