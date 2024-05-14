@@ -86,7 +86,7 @@ export default {
         </div>
         <div data-aos="zoom-in" data-aos-duration="1000" class="text-center text-gray-200">
           <h1 class="text-3xl mt-4">ZAR CHE</h1>
-          <h2 class="font-semibold">I am an Accountant</h2>
+          <h2 class="font-semibold">I am an Visa & Immigration Consultant!"</h2>
           <div class="w-[40%] max-sm:w-[70%] mx-auto">
                     <h3>My Experience</h3>
                     <p class="indent-8">  Experienced professional with diverse expertise in sales promotion, customer service, production and administration within the educational industry.
@@ -156,7 +156,7 @@ export default {
                 </div>
                 <div>
                   <p class="text-lg underline underline-offset-2">Visa Consultant</p>
-                  <p class="font-light">Myanmar Win Win Consulting Group Co.Ltd | 2023 May - 2024 May</p>
+                  <p class="font-light">Myanmar Win Win Consulting Group Co.,Ltd | 2023 May - 2024 May</p>
                 </div>
               </div>
               <div>
